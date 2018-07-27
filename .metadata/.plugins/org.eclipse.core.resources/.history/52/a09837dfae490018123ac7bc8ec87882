@@ -1,0 +1,5 @@
+package com.sree.model;
+
+public class Department {
+
+}

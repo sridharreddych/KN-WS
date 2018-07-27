@@ -1,0 +1,14 @@
+package com.sree.model;
+
+public class Employee {
+
+	public Employee(int i, String string, double d, String string2) {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
